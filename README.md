@@ -1,0 +1,2 @@
+# tarot_hoshino_plus
+适用hoshino的可切换卡图和牌阵的塔罗牌插件
