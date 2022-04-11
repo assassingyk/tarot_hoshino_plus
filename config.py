@@ -13,7 +13,7 @@ WITH_PIC = True   # 是否带图，关闭可能可以减轻风控情况
 CHAIN_REPLY = True   # 是否启用转发模式
 
 
-#牌阵信息
+#牌阵信息  name:牌阵名  num:牌阵卡数  pic:牌阵图片
 spreads_data={
     "1": {
         "name": "身心灵牌阵",
