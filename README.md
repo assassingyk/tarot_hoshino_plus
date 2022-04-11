@@ -2,7 +2,7 @@
 
 适用hoshino的可切换卡图和牌阵的塔罗牌插件
 
-在[tarot_hoshino](https://github.com/haha114514/tarot_hoshino)基础上魔改而来，增加了牌义解读内容，增加了牌阵选择功能和卡面自定义功能。
+在[tarot_hoshino](https://github.com/haha114514/tarot_hoshino)基础上魔改而来，补充丰富了牌义解读内容，增加了牌阵选择功能和卡面自定义功能。
 
 牌阵信息来自[第一星座网](https://www.d1xz.net/), 牌义解读信息来自[华易网](https://www.k366.com/)。
 
