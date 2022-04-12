@@ -186,8 +186,11 @@ async def tarot_act(bot, ev):
     if CHAIN_REPLY:
         try:
             await bot.send_group_forward_msg(group_id=ev['group_id'], messages=chain)
+            lmt.increase(uid)
+            return
         except ActionFailed:
             await bot.send(ev,'结果发送失败，账号可能被风控……')
+    lmt.increase(uid)
 
 
 async def chain_reply(bot, ev, chain, msg):
